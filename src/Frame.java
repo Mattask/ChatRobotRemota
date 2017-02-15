@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+//fattene una regione
 public class Frame extends JFrame implements ActionListener {
 	private JTextField testo;
 	private JTextArea chat;
